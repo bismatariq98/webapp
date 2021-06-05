@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "158069600933",
+    "project_id": "webapp-ee89f",
+    "storage_bucket": "webapp-ee89f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:158069600933:android:a341e1a71378184b65d34c",
+        "android_client_info": {
+          "package_name": "com.example.webviewflutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "158069600933-v96bd5sgvc9jfugj9iaueus2a55k0u3g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-BMi9Zz6aHG7ZsEHujBZGLIeiS4hFvJs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "158069600933-v96bd5sgvc9jfugj9iaueus2a55k0u3g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
